@@ -39,7 +39,6 @@ Backprop only W<sub>i</sub> and W<sub>common</sub>
 Backprop only W<sub>!i</sub> and W<sub>common</sub>
 
 #### Testing the model
-
 During testing, target task is an unknown supervised task
 
 ## Results
