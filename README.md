@@ -40,7 +40,7 @@ Backprop only W<sub>i</sub> and W<sub>common</sub>
 ![self mode](https://github.com/sagarjinde/Zero-Shot-Task-Transfer-and-Self-Supervised-Learning/blob/master/figs/self_model.png)
 
 #### Transfer Mode
-Backprop only W<sub>$\neg$i</sub> and W<sub>common</sub>
+Backprop only W<sub>\negi</sub> and W<sub>common</sub>
 
 ![transfer mode](https://github.com/sagarjinde/Zero-Shot-Task-Transfer-and-Self-Supervised-Learning/blob/master/figs/transfer_mode.png)
 
