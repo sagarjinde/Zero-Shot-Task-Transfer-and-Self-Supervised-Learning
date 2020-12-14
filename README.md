@@ -88,4 +88,4 @@ Feel free to add your custom task, but make sure to modify `ZSTT_train` and `ZST
 `keypoint2d` as well, but we realized it later on that the architecture of all the tasks should remain the same. Hence we did not use them.
 
 ## Future work
-Using models of different architecture in TTNet
+Using models of different architectures in TTNet
