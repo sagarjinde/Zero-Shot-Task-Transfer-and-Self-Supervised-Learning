@@ -35,7 +35,7 @@ Backprop only W<sub>i</sub> and W<sub>common</sub>
 ![self mode]()
 
 #### Transfer Mode
-Backprop only W<sub>$\neg$i</sub> and W<sub>common</sub>
+Backprop only W<sub> $\neg$ i</sub> and W<sub>common</sub>
 
 ![transfer mode]()
 
