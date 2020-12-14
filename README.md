@@ -66,7 +66,7 @@ Run `pip install -r requirements.txt`
 **Note:** If you get `ModuleNotFoundError: No module named 'matplotlib._path'` error, run `pip3 install --upgrade matplotlib`
 
 ### Download Image Dataset
-Download `taskonomy-sample-model-1` from [Google Drive link]() and save it inside main folder
+Download `taskonomy-sample-model-1` from [Google Drive link](https://drive.google.com/drive/folders/1vRxpGVJxySb4myYSKuoMOHQMxj8ZItVv?usp=sharing) and save it inside main folder
 
 ### How to train model
 Run `python ZSTT_train.py` </br>
