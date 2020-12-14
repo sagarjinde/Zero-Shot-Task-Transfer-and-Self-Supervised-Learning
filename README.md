@@ -32,23 +32,15 @@ Model is trained in two modes:
 - Self Mode
 - Transfer mode
 
-To explain training of the model, consider the following example with target task as one of the known task T<sup>1</sup>. i.e., consider i = 1
-
 #### Self Mode
 Backprop only W<sub>i</sub> and W<sub>common</sub>
-
-![self mode](https://github.com/sagarjinde/Zero-Shot-Task-Transfer-and-Self-Supervised-Learning/blob/master/figs/self_model.png)
 
 #### Transfer Mode
 Backprop only W<sub>!i</sub> and W<sub>common</sub>
 
-![transfer mode](https://github.com/sagarjinde/Zero-Shot-Task-Transfer-and-Self-Supervised-Learning/blob/master/figs/transfer_mode.png)
-
 #### Testing the model
 
-To explain testing of the model, consider the following example with target task as an unknown task T<sup>4</sup>. i.e., consider i = 4
-
-![test mode](https://github.com/sagarjinde/Zero-Shot-Task-Transfer-and-Self-Supervised-Learning/blob/master/figs/test_model.png)
+During testing, target task is an unknown supervised task
 
 ## Results
 
