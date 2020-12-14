@@ -87,5 +87,5 @@ Feel free to add your custom task, but make sure to modify `ZSTT_train` and `ZST
 **Note:** The present version of the code is only using `jigsaw`, `autoencoding` and `denoising` as input task. Initial plan was to use `colorization`, `edge2d` and 
 `keypoint2d` as well, but we realized it later on that the architecture of all the tasks should remain the same. Hence we did not use them.
 
-### Future work
+## Future work
 Using models of different architecture in TTNet
